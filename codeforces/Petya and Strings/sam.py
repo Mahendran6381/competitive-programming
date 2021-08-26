@@ -1,0 +1,7 @@
+print(
+    len(
+        list(
+            "HhoDWbcxwiMnCNexOsKsujLiSGcLllXOkRSbnOzThAjnnliLYFFmsYkOfpTxRNEfBsoUHfoLTiqAINRPxWRqrTJhgfkKcDOH"
+        )
+    )
+)
